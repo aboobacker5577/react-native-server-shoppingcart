@@ -1,0 +1,39 @@
+{"level":"info","message":"Hello distributed log files!","timestamp":"2017-08-18T10:20:49.509Z"}
+{"domain":null,"_events":{},"_eventsCount":0,"transports":{"console":{"domain":null,"_events":{},"_eventsCount":0,"silent":false,"raw":false,"name":"console","level":"info","handleExceptions":false,"exceptionsLevel":"error","humanReadableUnhandledException":false,"json":true,"colorize":false,"prettyPrint":false,"showLevel":true,"label":null,"logstash":false,"depth":null,"align":false,"stderrLevels":{"error":true,"debug":true},"eol":"\n"}},"_names":["console"],"padLevels":false,"levels":{"error":0,"warn":1,"info":2,"verbose":3,"debug":4,"silly":5},"id":null,"level":"info","emitErrs":false,"stripColors":false,"exitOnError":true,"exceptionHandlers":{},"profilers":{},"rewriters":[],"filters":[],"message":"Hello","timestamp":"2017-08-18T10:20:49.513Z"}
+{"level":"info","message":"Hello distributed log files!","timestamp":"2017-08-18T10:20:58.766Z"}
+{"domain":null,"_events":{},"_eventsCount":0,"transports":{"console":{"domain":null,"_events":{},"_eventsCount":0,"silent":false,"raw":false,"name":"console","level":"info","handleExceptions":false,"exceptionsLevel":"error","humanReadableUnhandledException":false,"json":true,"colorize":false,"prettyPrint":false,"showLevel":true,"label":null,"logstash":false,"depth":null,"align":false,"stderrLevels":{"error":true,"debug":true},"eol":"\n"}},"_names":["console"],"padLevels":false,"levels":{"error":0,"warn":1,"info":2,"verbose":3,"debug":4,"silly":5},"id":null,"level":"info","emitErrs":false,"stripColors":false,"exitOnError":true,"exceptionHandlers":{},"profilers":{},"rewriters":[],"filters":[],"message":"Hello","timestamp":"2017-08-18T10:20:58.782Z"}
+{"level":"info","message":"Hello distributed log files!","timestamp":"2017-08-18T10:45:04.689Z"}
+{"level":"info","message":"Hello fffff","timestamp":"2017-08-18T10:45:04.690Z"}
+{"level":"info","message":"Hello distributed log files!","timestamp":"2017-08-18T10:46:51.309Z"}
+{"level":"info","message":"Hello fffff","timestamp":"2017-08-18T10:46:51.311Z"}
+{"level":"info","message":"Hello distributed log files!","timestamp":"2017-08-18T10:47:47.703Z"}
+{"level":"info","message":"Hello Server Started :Fri Aug 18 2017 16:17:47 GMT+0530 (IST)","timestamp":"2017-08-18T10:47:47.705Z"}
+{"level":"info","message":"Hello distributed log files!","timestamp":"2017-08-18T10:48:16.786Z"}
+{"level":"info","message":"Server  Started :Fri Aug 18 2017 16:18:16 GMT+0530 (IST)","timestamp":"2017-08-18T10:48:16.789Z"}
+{"level":"info","message":"Hello distributed log files!","timestamp":"2017-08-18T10:49:56.743Z"}
+{"level":"info","message":"Server  Started :Fri Aug 18 2017 16:19:56 GMT+0530 (IST)","timestamp":"2017-08-18T10:49:56.746Z"}
+{"level":"info","message":"Server  Page Not Found :Fri Aug 18 2017 16:20:05 GMT+0530 (IST)","timestamp":"2017-08-18T10:50:05.259Z"}
+{"level":"info","message":"Hello distributed log files!","timestamp":"2017-08-18T10:51:13.494Z"}
+{"level":"info","message":"Server  Started :Fri Aug 18 2017 16:21:13 GMT+0530 (IST)","timestamp":"2017-08-18T10:51:13.495Z"}
+{"level":"info","message":"Server  Page Not Found :Error: Not Found","timestamp":"2017-08-18T10:51:17.859Z"}
+{"level":"info","message":"Hello distributed log files!","timestamp":"2017-08-18T10:52:17.801Z"}
+{"level":"info","message":"Server  Started :Fri Aug 18 2017 16:22:17 GMT+0530 (IST)","timestamp":"2017-08-18T10:52:17.803Z"}
+{"meta":null,"level":"info","message":"Error","timestamp":"2017-08-18T10:52:21.357Z"}
+{"level":"info","message":"Hello distributed log files!","timestamp":"2017-08-18T10:54:29.005Z"}
+{"level":"info","message":"Server  Started :Fri Aug 18 2017 16:24:29 GMT+0530 (IST)","timestamp":"2017-08-18T10:54:29.007Z"}
+{"level":"info","message":"Hello distributed log files!","timestamp":"2017-08-18T10:56:04.692Z"}
+{"level":"info","message":"Server  Started :Fri Aug 18 2017 16:26:04 GMT+0530 (IST)","timestamp":"2017-08-18T10:56:04.694Z"}
+{"level":"info","message":"Hello distributed log files!","timestamp":"2017-08-18T10:56:36.066Z"}
+{"level":"info","message":"Server  Started :Fri Aug 18 2017 16:26:36 GMT+0530 (IST)","timestamp":"2017-08-18T10:56:36.068Z"}
+{"level":"info","message":"Hello distributed log files!","timestamp":"2017-08-18T10:57:33.343Z"}
+{"level":"info","message":"Server  Started :Fri Aug 18 2017 16:27:33 GMT+0530 (IST)","timestamp":"2017-08-18T10:57:33.345Z"}
+{"level":"info","message":"Hello distributed log files!","timestamp":"2017-08-18T10:57:38.545Z"}
+{"level":"info","message":"Server  Started :Fri Aug 18 2017 16:27:38 GMT+0530 (IST)","timestamp":"2017-08-18T10:57:38.547Z"}
+{"level":"info","message":"Hello distributed log files!","timestamp":"2017-08-18T10:58:47.168Z"}
+{"level":"info","message":"Server  Started :Fri Aug 18 2017 16:28:47 GMT+0530 (IST)","timestamp":"2017-08-18T10:58:47.170Z"}
+{"level":"info","message":"Hello distributed log files!","timestamp":"2017-08-18T11:00:36.230Z"}
+{"level":"info","message":"Server  Started :Fri Aug 18 2017 16:30:36 GMT+0530 (IST)","timestamp":"2017-08-18T11:00:36.233Z"}
+{"level":"info","message":"Hello distributed log files!","timestamp":"2017-08-18T11:01:21.805Z"}
+{"level":"info","message":"Server  Started :Fri Aug 18 2017 16:31:21 GMT+0530 (IST)","timestamp":"2017-08-18T11:01:21.806Z"}
+{"level":"info","message":"Hello distributed log files!","timestamp":"2017-08-18T11:01:54.599Z"}
+{"level":"info","message":"Server  Started :Fri Aug 18 2017 16:31:54 GMT+0530 (IST)","timestamp":"2017-08-18T11:01:54.601Z"}

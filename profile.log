@@ -1,0 +1,7 @@
+{"level":"info","message":"Hello distributed log files!","timestamp":"2017-08-18T10:57:33.399Z"}
+{"level":"info","message":"Profile  Started :Fri Aug 18 2017 16:27:33 GMT+0530 (IST)","timestamp":"2017-08-18T10:57:33.399Z"}
+{"level":"info","message":"Hello distributed log files!","timestamp":"2017-08-18T10:57:38.600Z"}
+{"level":"info","message":"Profile  Started :Fri Aug 18 2017 16:27:38 GMT+0530 (IST)","timestamp":"2017-08-18T10:57:38.600Z"}
+{"level":"info","message":"Order Profile loaded succesfully","timestamp":"2017-08-18T10:58:18.444Z"}
+{"level":"info","message":"Order { _id: 5995664d7383a00ce6cd7955,\n  password: '$2a$05$qZo1RFJkKqm7jI4j6Vr9BeWm7ipiutCAUgW5xlY4Co.VdH5xVSKxW',\n  email: 'abu.abutty@gmail.com',\n  __v: 0 }Profile loaded succesfully","timestamp":"2017-08-18T11:00:51.969Z"}
+{"level":"info","message":"Order abu.abutty@gmail.comProfile loaded succesfully","timestamp":"2017-08-18T11:01:59.114Z"}

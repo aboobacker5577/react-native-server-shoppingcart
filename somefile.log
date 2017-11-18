@@ -1,0 +1,25 @@
+{"level":"info","message":"2017-08-17T10:04:12.077ZAccesing test/user","timestamp":"2017-08-17T10:04:12.114Z"}
+{"level":"info","message":"2017-08-17T10:07:10.965ZAccesing test/user","timestamp":"2017-08-17T10:07:11.002Z"}
+{"level":"info","message":"2017-08-17T11:01:40.581ZAccesing test/user","timestamp":"2017-08-17T11:01:40.617Z"}
+{"level":"info","message":"2017-08-17T11:03:16.863ZAccesing test/user","timestamp":"2017-08-17T11:03:16.900Z"}
+{"level":"info","message":"2017-08-17T11:03:49.625ZAccesing test/user","timestamp":"2017-08-17T11:03:49.662Z"}
+{"level":"info","message":"2017-08-17T11:03:49.699ZAccesing test/user{ _id: 5995664d7383a00ce6cd7955,\n  password: '$2a$05$qZo1RFJkKqm7jI4j6Vr9BeWm7ipiutCAUgW5xlY4Co.VdH5xVSKxW',\n  email: 'abu.abutty@gmail.com',\n  __v: 0 }","timestamp":"2017-08-17T11:03:58.956Z"}
+{"level":"info","message":"2017-08-17T11:05:06.657ZAccesing test/user","timestamp":"2017-08-17T11:05:06.694Z"}
+{"level":"info","message":"2017-08-17T11:05:36.755ZAccesing test/user","timestamp":"2017-08-17T11:05:36.791Z"}
+{"level":"info","message":"2017-08-17T11:08:01.603ZAccesing test/user","timestamp":"2017-08-17T11:08:01.640Z"}
+{"level":"info","message":"2017-08-17T11:08:03.100ZAccesing test/user","timestamp":"2017-08-17T11:08:03.137Z"}
+{"level":"info","message":"2017-08-17T11:08:05.672ZAccesing test/user","timestamp":"2017-08-17T11:08:05.708Z"}
+{"level":"info","message":"2017-08-17T11:10:34.918ZAccesing test/user","timestamp":"2017-08-17T11:10:34.955Z"}
+{"level":"info","message":"2017-08-17T11:11:40.846ZAccesing test/user","timestamp":"2017-08-17T11:11:40.884Z"}
+{"level":"info","message":"2017-08-17T11:11:43.434ZAccesing test/user","timestamp":"2017-08-17T11:11:43.472Z"}
+{"level":"info","message":"2017-08-17T14:59:26.278ZAccesing test/user","timestamp":"2017-08-17T14:59:26.314Z"}
+{"level":"info","message":"2017-08-17T15:00:33.286ZAccesing test/user","timestamp":"2017-08-17T15:00:33.322Z"}
+{"level":"info","message":"2017-08-17T15:12:22.142ZAccesing test/user","timestamp":"2017-08-17T15:12:22.180Z"}
+{"level":"info","message":"2017-08-17T15:14:52.338ZAccesing test/user","timestamp":"2017-08-17T15:14:52.378Z"}
+{"level":"info","message":"2017-08-17T15:18:02.493ZAccesing test/user","timestamp":"2017-08-17T15:18:02.533Z"}
+{"level":"info","message":"2017-08-17T15:18:38.272ZAccesing test/user","timestamp":"2017-08-17T15:18:38.314Z"}
+{"level":"info","message":"2017-08-17T15:18:44.097ZAccesing test/user","timestamp":"2017-08-17T15:18:44.135Z"}
+{"level":"info","message":"Hello distributed log files!","timestamp":"2017-08-18T10:18:42.052Z"}
+{"domain":null,"_events":{},"_eventsCount":0,"transports":{"console":{"domain":null,"_events":{},"_eventsCount":0,"silent":false,"raw":false,"name":"console","level":"info","handleExceptions":false,"exceptionsLevel":"error","humanReadableUnhandledException":false,"json":true,"colorize":false,"prettyPrint":false,"showLevel":true,"label":null,"logstash":false,"depth":null,"align":false,"stderrLevels":{"error":true,"debug":true},"eol":"\n"}},"_names":["console"],"padLevels":false,"levels":{"error":0,"warn":1,"info":2,"verbose":3,"debug":4,"silly":5},"id":null,"level":"info","emitErrs":false,"stripColors":false,"exitOnError":true,"exceptionHandlers":{},"profilers":{},"rewriters":[],"filters":[],"message":"Hello","timestamp":"2017-08-18T10:18:42.056Z"}
+{"level":"info","message":"Hello distributed log files!","timestamp":"2017-08-18T10:19:56.666Z"}
+{"domain":null,"_events":{},"_eventsCount":0,"transports":{"console":{"domain":null,"_events":{},"_eventsCount":0,"silent":false,"raw":false,"name":"console","level":"info","handleExceptions":false,"exceptionsLevel":"error","humanReadableUnhandledException":false,"json":true,"colorize":false,"prettyPrint":false,"showLevel":true,"label":null,"logstash":false,"depth":null,"align":false,"stderrLevels":{"error":true,"debug":true},"eol":"\n"}},"_names":["console"],"padLevels":false,"levels":{"error":0,"warn":1,"info":2,"verbose":3,"debug":4,"silly":5},"id":null,"level":"info","emitErrs":false,"stripColors":false,"exitOnError":true,"exceptionHandlers":{},"profilers":{},"rewriters":[],"filters":[],"message":"Hello","timestamp":"2017-08-18T10:19:56.669Z"}
